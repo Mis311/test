@@ -1,0 +1,9 @@
+package jp.co.internous.action;
+
+public class HumanAdress {
+	public String adress;
+	Public String get Adress(){
+		adress="東京";
+		return adress;
+	}
+}
