@@ -1,0 +1,7 @@
+
+public class MP3player {
+	public void play(){
+		System.out.println("再生");
+	}
+
+}

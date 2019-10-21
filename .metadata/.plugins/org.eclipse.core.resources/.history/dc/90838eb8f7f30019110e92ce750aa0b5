@@ -1,0 +1,16 @@
+
+public class Android {
+   public static void main(String[] args) {
+	   SmartPhone android =new SmartPhone();
+	   android.play= "再生";
+	   android.stop= "停止";
+	   android.next="次へ";
+	   android.back="戻る";
+	   android.call="電話";
+	   android.mail="メール";
+	   android.photo="写真";
+	   android.internet="インターネット";
+
+   }
+
+}

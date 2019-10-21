@@ -1,0 +1,7 @@
+
+public class Android {
+   public static void main(String[] args) {
+}
+   Iphone android =new Iphone();
+   android.play= "再生";
+}
